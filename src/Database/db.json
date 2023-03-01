@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "movieName": "kantara",
+      "hero": "rishab",
+      "ReleaseYear": "2022",
+      "rating": 4.5,
+      "poster": " https://stat2.bollywoodhungama.in/wp-content/uploads/2022/10/Kantara-1.jpg"
+    },
+    {
+      "id": 3,
+      "movieName": "charliee",
+      "hero": "rakshith",
+      "ReleaseYear": "2021",
+      "rating": 3.8,
+      "poster": "https://hityaflopmovieworld.com/wp-content/uploads/2018/06/De-_05AU8AEXMS5-655x1024.jpg "
+    },
+    {
+      "id": 4,
+      "movieName": "kranthi",
+      "hero": "darshan",
+      "ReleaseYear": "2023",
+      "rating": 4,
+      "poster": " https://www.filmibeat.com/img/popcorn/movie_posters/kranti-20220216101640-20355.jpg"
+    },
+    {
+      "movieName": "Head Bush",
+      "hero": "Dhananjay",
+      "ReleaseYear": "2022",
+      "rating": "4.5",
+      "poster": "https://i2.cinestaan.com/image-bank/640-360/180001-181000/180063.jpg",
+      "id": 5
+    },
+    {
+      "movieName": "Vedha",
+      "hero": "ShivaRaj Kumar",
+      "ReleaseYear": "2022",
+      "rating": "4.7",
+      "poster": "https://www.filmibeat.com/img/popcorn/movie_posters/vedha-20210311105411-19974.jpg",
+      "id": 6
+    },
+    {
+      "movieName": "kgf",
+      "hero": "yash",
+      "ReleaseYear": "2022",
+      "rating": "4.6",
+      "poster": "https://th.bing.com/th/id/OIP.HsiYunv-gLBFOAMeoAMm8AHaH1?pid=ImgDet&rs=1",
+      "id": 7
+    }
+  ]
+}
